@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Andrew Botolino / Site Title"
+title                    : "Andrew's Homepage"
 title_separator          : "-"
 name                     : &name "Andrew Botolino"
 description              : &description "Personal Website"
