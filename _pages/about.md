@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-A blurb about me: I am a senior at Boston University, graduating in May of 2025. I study journalism there, and I especially like reporting and writing stories with interesting data components. Right now, the world of open-source journalism is something I'm particularly stoked about. 
+**A blurb about me:** 
+
+I am a senior at Boston University, graduating in May of 2025. I study journalism there. I especially like reporting and writing stories with interesting data components. Right now, the world of open-source journalism is something I'm particularly stoked about. 
 
 Recently, I collaborated on a nationwide investigation into judicial ethics for ProPublica and reported on Massachusetts farmworkers' working conditions for the Boston Globe. You can check out those stories + some of the other stuff I've done in the "journalism" tab above if you'd like. I'm hoping to continue to work on investigations illuminating abuses of power and failures of justice in the future.
 
