@@ -1,6 +1,6 @@
 ---
 title: "‘There is tremendous fear.’"
-excerpt: "As Massachusetts farmworkers toil under brutal conditions, some push for legislative change <br/><img src='/images/farmworkers_image.jpg'>"
+excerpt: "As Massachusetts farmworkers toil under brutal conditions, some push for legislative change <be<br/><img src='/images/farmworkers_image.jpg'>"
 collection: portfolio
 ---
 
