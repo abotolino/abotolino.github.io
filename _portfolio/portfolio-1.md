@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Even When Big Cases Intersect With Their Families’ Interests, Many Judges Choose Not to Recuse"
+excerpt: "Ambiguous — and unenforced — recusal standards mean few checks and balances for top judges when cases involve their family members.
+<br/><img src='/images/judges_image.webp'>"
 collection: portfolio
 ---
 
