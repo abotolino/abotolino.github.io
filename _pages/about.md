@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Thanks for visiting!"
+title: "Andrew Botolino"
 author_profile: true
 redirect_from: 
   - /about/
