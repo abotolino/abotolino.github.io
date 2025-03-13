@@ -4,15 +4,15 @@ title: "Essays"
 permalink: /essays/
 author_profile: true
 ---
-
 {% include base_path %}
 
-This is where your essays will be displayed. You can add essay content directly here or use a collection-based approach.
+Essays I've written for various publications and awards.
 
-<!-- Example essay entry -->
-## [Essay Title](https://yourdomain.com/essays/example-essay)
-*March 13, 2025*
+## [The Alchemy of Words](https://andrewbotolino.com/essays/alchemy-of-words)
+*March 01, 2024*
 
-Brief description of your essay goes here...
+<div class="pdf-container" style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="/files/alchemy-of-words.pdf" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" allowfullscreen></iframe>
+</div>
 
 <!-- Add more essays as needed -->
