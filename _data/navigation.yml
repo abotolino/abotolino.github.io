@@ -10,3 +10,6 @@ main:
     
   - title: "Resume"
     url: /files/resume.pdf
+
+- title: "Essays"
+    url: /essays/
