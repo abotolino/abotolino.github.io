@@ -6,9 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-Essays I've written for various publications and awards.
-
-## [The Alchemy of Words](https://andrewbotolino.com/essays/alchemy-of-words)
+## [The Alchemy of Words](https://andrewbotolino.com/essays/)
+Bookbuilders of Boston Writing Competition, 1st Place
 *March 01, 2024*
 
 <div class="pdf-container" style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 100%;">
