@@ -1,6 +1,6 @@
 ---
-title: "Sample Photo"
-excerpt: "Add your photo description here. <br/><br/><img src='/images/your-photo-name.jpg'>"
+title: "New England, 2021"
+excerpt: "<br/><br/><img src='/images/your-photo-name.jpg'>"
 collection: photos
 ---
 
