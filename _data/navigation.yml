@@ -7,11 +7,11 @@ main:
   - title: "Journalism"
     url: /journalism/
 
-  - title: "Photos"
-    url: /photos/
-
   - title: "Resume"
     url: /files/resume.pdf
 
   - title: "Essays"
     url: /essays/
+
+  - title: "Photos"
+    url: /photos/
