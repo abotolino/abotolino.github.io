@@ -223,6 +223,9 @@ collections:
   essays:
     output: true
     permalink: /:collection/:path/
+  photos:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -284,6 +287,15 @@ defaults:
   - scope:
       path: ""
       type: essays
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _photos
+  - scope:
+      path: ""
+      type: photos
     values:
       layout: single
       author_profile: true
