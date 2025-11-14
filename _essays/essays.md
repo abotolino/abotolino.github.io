@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /essays/
+permalink: /Writing and Essays/
 author_profile: true
 ---
 {% include base_path %}
